@@ -1,4 +1,5 @@
 # KUKA Industrial Automation
+![KUKA Delta robot workcell](./images/kuka-workcell.jpg)
 
 KUKA Delta robot integration for an agricultural robotics R&D workcell,
 combining KRL programming, AI-to-robot interfacing, conveyor coordination,
@@ -42,6 +43,13 @@ the workcell's potato-handling workflow.
 
 This work involved coordinating movement sequences, target positions,
 and gripping timing within the developing robotic system.
+
+![KRL robot and conveyor programming](./images/robot-conveyor-coordination1.jpg)
+![KRL robot and conveyor programming](./images/robot-conveyor-coordination2.jpg)
+![KRL robot and conveyor programming](./images/robot-conveyor-coordination3.jpg)
+
+KRL programming view showing motion commands and gripping-delay
+logic used during robot and conveyor coordination development.
 
 ## Automatic External Operation
 
